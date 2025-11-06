@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Ding Zou, 邹定
 
 Hi, I'm Ding Zou, currently working as a Large Model Algorithm Engineer at ZTE for the Blue Sword Project. I lead a research team primarily focused on LLM & MLLM reasoning and Embodied AI research. Academically, I hold a Master's degree in Computer Science and Technology (2021-2024) and a Bachelor's degree in Electronic Engineering (2017-2024), both from Huazhong University of Science and Technology (HUST).
 
