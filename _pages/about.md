@@ -13,6 +13,8 @@ Hi, I'm Ding Zou, currently working as a Large Language Model Algorithm Engineer
 Recent News
 ======
 
+- [26.01] One [Paper](https://arxiv.org/) in terms of Grapgh RAG is accepted by ICLR'26
+- [25.11] One [Paper](https://arxiv.org/abs/2511.06722) in terms of MLLM Data Sampling is accepted by AAAI'26
 - [25.10] One [Technical Report](https://arxiv.org/abs/2510.20578) in terms of Embodied AI is published.
 - [25.08] One [Paper](https://arxiv.org/abs/2503.07065) in terms of MLLM reasoning is accepted by EMNLP'25
 - [24.07] Join ZTE Corporation for the Blue Sword Project
@@ -31,8 +33,18 @@ Selected Publications
 
 Service
 ======
-- Program Chairs: AAAI'26, EMNLP'25, WWW'25, etc.
+- Program Chairs: ACL'26, ICME'26, AAAI'26, EMNLP'25, WWW'25, etc.
 - Journal Reviewers: TKDE, Knowledge Based Ssystem, Information Fusion, etc.
 
 
+Experience
+======
+### ZTE, BlueSword Program (2024.07 – Present)
+Algorithm Expert
 
+### CS, Huazhong University of Science and Technology (2021.09 – 2024.07)
+
+### Alibaba 1688 (2023.05 – 2023.09)
+Recommendation Algorithm Intern
+
+### EE, Huazhong University of Science and Technology (2017.09 – 2021.07)
