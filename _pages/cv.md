@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- Huazhong University of Science and Technology, M.S. in Computer Science and Technology, 2021.09 - 2024.07
+- Huazhong University of Science and Technology, B.S. in Electronic Engineering, 2017.09 - 2021.07
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Experience
+- ZTE, Blue Sword Program, Large Language Model Algorithm Engineer, 2024.07 - Present
+- Alibaba 1688, Recommendation Algorithm Intern, 2023.05 - 2023.09
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
+- Large language models and multimodal reasoning
+- Embodied AI and task planning
+- Multimodal post-training
+- Recommendation systems and knowledge graphs
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Publications
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching and Mentoring
+- If you want, this section can be expanded later with courses, supervision, or academic service.
+
+## Service
+- This section is ready for future updates.
