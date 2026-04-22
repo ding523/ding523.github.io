@@ -1,14 +1,14 @@
 ---
 title: "Revisiting the Data Sampling in Multimodal Post-training from a Difficulty-Distinguish View"
 collection: publications
-category: conference
-permalink: /publication/aaai2026-difficulty-sampling
+category: conferences
+permalink: /publications/aaai2026-difficulty-sampling/
 venue: "AAAI 2026"
 date: 2026-01-01
-authors: "Ding Zou*, ..."
+authors: "J Qi, Ding Zou, Wentao Yan, Rui Ma, Jiawei Li, Zhibin Zheng, Zhen Yang, and Rui Zhao"
+citation: "J Qi, Ding Zou, Wentao Yan, Rui Ma, Jiawei Li, Zhibin Zheng, Zhen Yang, and Rui Zhao. Revisiting the Data Sampling in Multimodal Post-training from a Difficulty-Distinguish View. AAAI 2026."
 note: "Submitted"
 ---
-
 This paper revisits multimodal data sampling strategies for reinforcement learning based post-training from a **difficulty-distinguish perspective**.
 
 We propose two complementary difficulty metrics:
