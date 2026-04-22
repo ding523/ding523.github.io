@@ -12,8 +12,8 @@ Hi, I'm Ding Zou, currently working as a Large Language Model Algorithm Engineer
 
 Recent News
 ======
-
-- [26.01] One [Paper](https://arxiv.org/) in terms of Grapgh RAG is accepted by ICLR'26
+- [26.04] One [Paper](https://arxiv.org/pdf/2604.08926) in terms of LLM Post-Training is accepted by ACL'26
+- [26.01] One [Paper](https://arxiv.org/pdf/2602.19240) in terms of Grapgh RAG is accepted by ICLR'26
 - [25.11] One [Paper](https://arxiv.org/abs/2511.06722) in terms of MLLM Data Sampling is accepted by AAAI'26
 - [25.10] One [Technical Report](https://arxiv.org/abs/2510.20578) in terms of Embodied AI is published.
 - [25.08] One [Paper](https://arxiv.org/abs/2503.07065) in terms of MLLM reasoning is accepted by EMNLP'25
@@ -33,8 +33,8 @@ Selected Publications
 
 Service
 ======
-- Program Chairs: ACL'26, ICME'26, AAAI'26, EMNLP'25, WWW'25, etc.
-- Journal Reviewers: TKDE, Knowledge Based Ssystem, Information Fusion, etc.
+- Program Chairs: ACL'26, COLM'26, ICME'26, AAAI'26, EMNLP'25, WWW'25, etc.
+- Journal Reviewers: TKDE, Knowledge Based System, Information Fusion, etc.
 
 
 Experience
