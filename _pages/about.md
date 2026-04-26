@@ -16,12 +16,12 @@ Recent News
 - [25.10] One [Technical Report](https://arxiv.org/abs/2510.20578) in terms of Embodied AI is published.
 - [25.08] One [Paper](https://arxiv.org/abs/2503.07065) in terms of MLLM reasoning is accepted by EMNLP'25
 - [24.07] Join ZTE Corporation for the Blue Sword Project
-- [24.02] One Paper in terms of KG Recommendation is accepted by WWW'24
-- [24.01] One Paper in terms of Sequential Recommendation is accepted by Pattern Recognition (PR)
-- [23.11] One Paper in terms of Bundle Recommendation is accepted by TKDE
-- [22.08] One Paper in terms of KG Recommendation is accepted by CIKM'22
-- [22.07] One Paper in terms of KG Recommendation is accepted by SIGIR'22
-- [22.02] One Paper in terms of Bundle Recommendation is accepted by AAAI'22
+- [24.02] One [Paper](https://arxiv.org/abs/2405.20565) in terms of KG Recommendation is accepted by WWW'24
+- [24.01] One [Paper](https://arxiv.org/pdf/2011.10173) in terms of Sequential Recommendation is accepted by Pattern Recognition (PR)
+- [23.11] One [Paper](https://ieeexplore.ieee.org/abstract/document/10304376/) in terms of Bundle Recommendation is accepted by TKDE
+- [22.08] One [Paper](https://arxiv.org/abs/2208.10061) in terms of KG Recommendation is accepted by CIKM'22
+- [22.07] One [Paper](https://arxiv.org/abs/2204.08807) in terms of KG Recommendation is accepted by SIGIR'22
+- [22.02] One [Paper](https://arxiv.org/abs/2202.11425) in terms of Bundle Recommendation is accepted by AAAI'22
 
 Selected Publications
 ======
