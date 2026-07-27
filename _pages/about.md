@@ -6,10 +6,11 @@ redirect_from:
 - /about/  
 - /about.html
 ---
-Hi, I'm Ding Zou, currently working as a Large Language Model Algorithm Engineer at ZTE for the Blue Sword Project. I lead a research team primarily focusing on LLM & MLLM reasoning and Embodied AI research. Academically, I hold a Master's degree in Computer Science and Technology (2021-2024) and a Bachelor's degree in Electronic Engineering (2017-2024), both from Huazhong University of Science and Technology (HUST).
+Hi, I'm Ding Zou, currently working as a Large Language Model Algorithm Engineer (Team Leader) at ZTE for the Blue Sword Project. I lead a research team primarily focusing on Agentic Training research (Algorithm & Infra). Academically, I hold a Master's degree in Computer Science and Technology (2021-2024) and a Bachelor's degree in Electronic Engineering (2017-2024), both from Huazhong University of Science and Technology (HUST).
 
 Recent News
 ======
+- [26.05] One [Paper](https://arxiv.org/pdf/2605.18025) in terms of TeleCom-Domain Benchmark is accepted by KDD'26
 - [26.04] One [Paper](https://arxiv.org/pdf/2604.08926) in terms of LLM Post-Training is accepted by ACL'26
 - [26.01] One [Paper](https://arxiv.org/pdf/2602.19240) in terms of Graph RAG is accepted by ICLR'26
 - [25.11] One [Paper](https://arxiv.org/abs/2511.06722) in terms of MLLM Data Sampling is accepted by AAAI'26
@@ -32,7 +33,7 @@ Selected Publications
 
 Service
 ======
-- Program Chairs: ACL'26, COLM'26, ICME'26, AAAI'26, EMNLP'25, WWW'25, etc.
+- Program Chairs: AAAI'27, EMNLP'26, ACL'26, COLM'26, ICME'26, AAAI'26, EMNLP'25, WWW'25, etc.
 - Journal Reviewers: TKDE, Knowledge Based System, Information Fusion, etc.
 
 Experience
